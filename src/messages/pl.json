@@ -1,5 +1,8 @@
 {
-  "Index": {
-    "title": "Witaj świecie"
+  "Header": {
+    "services": "Usługi",
+    "portfolio": "Projekty",
+    "about": "O mnie",
+    "contact": "Kontakt"
   }
 }

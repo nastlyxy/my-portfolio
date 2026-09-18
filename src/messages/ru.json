@@ -1,5 +1,8 @@
 {
-  "Index": {
-    "title": "Привет мир"
+  "Header": {
+    "services": "Услуги",
+    "portfolio": "Кейсы",
+    "about": "Обо мне",
+    "contact": "Контакты"
   }
 }

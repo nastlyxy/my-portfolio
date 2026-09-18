@@ -109,6 +109,9 @@ importers:
 
   .:
     dependencies:
+      '@radix-ui/react-visually-hidden':
+        specifier: ^1.2.11
+        version: 1.2.11
       class-variance-authority:
         specifier: ^0.7.1
         version: 0.7.1
