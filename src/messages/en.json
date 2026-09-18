@@ -4,5 +4,16 @@
     "portfolio": "Portfolio",
     "about": "About me",
     "contact": "Contact"
+  },
+  "Footer": {
+    "slogan": "From fast websites to precise web analytics and ads.",
+    "navTitle": "Navigation",
+    "socialTitle": "Connect",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About me",
+    "contact": "Contact",
+    "location": "Poznan, Poland",
+    "copyright": "All rights reserved"
   }
 }

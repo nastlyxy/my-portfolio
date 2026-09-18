@@ -4,5 +4,16 @@
     "portfolio": "Projekty",
     "about": "O mnie",
     "contact": "Kontakt"
+  },
+  "Footer": {
+    "slogan": "Od szybkich stron po precyzyjną analitykę i reklamy.",
+    "navTitle": "Nawigacja",
+    "socialTitle": "Kontakt",
+    "services": "Usługi",
+    "portfolio": "Projekty",
+    "about": "O mnie",
+    "contact": "Napisz do mnie",
+    "location": "Poznań, Polska",
+    "copyright": "Wszelkie prawa zastrzeżone"
   }
 }
